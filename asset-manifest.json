@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mvxe_catalog/static/css/main.7c15d8d6.css",
+    "main.js": "/mvxe_catalog/static/js/main.12216b3b.js",
+    "index.html": "/mvxe_catalog/index.html",
+    "main.7c15d8d6.css.map": "/mvxe_catalog/static/css/main.7c15d8d6.css.map",
+    "main.12216b3b.js.map": "/mvxe_catalog/static/js/main.12216b3b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c15d8d6.css",
+    "static/js/main.12216b3b.js"
+  ]
+}
